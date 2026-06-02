@@ -1,7 +1,4 @@
-# LuHash
-
 # Hey there! 👋
-
 I'm a self‑taught Python developer from Russia, turning ideas into code
 
 If a task can be automated, I'll script it. If a game can be built, I'll build it.  
